@@ -5,7 +5,8 @@ export default function Footer() {
   return (
     <div className="Footer">
     
-        This website is coded by Esther Omouwho and is open-sourced on{" "}
+        This project is coded by 
+        <a href="https://esthers-portfolio-project.netlify.app/"> Esther Omouwho </a>  it is open-sourced on{" "}
         <a href="https://github.com/Omouwho/react-weather-app" target="_blank"  rel="noopener noreferrer" >
           GitHub  
         </a>{" "} and hosted
