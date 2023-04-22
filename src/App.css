@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+ background: radial-gradient(circle at 4.3% 10.7%, rgb(138, 118, 249) 13.6%, rgb(75, 252, 235) 100.7%);
+
+
 }
 
 .list {
@@ -18,7 +21,6 @@
 }
 
 .App-header {
-  background: linear-gradient(89deg, rgb(21, 74, 189) 0.1%, rgb(26, 138, 211) 51.5%, rgb(72, 177, 234) 100.2%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
